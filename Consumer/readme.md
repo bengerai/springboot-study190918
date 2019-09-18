@@ -1,3 +1,3 @@
-# pring Boot集成RebbitMQ测试-消息消费者
+# SpringBoot集成RebbitMQ测试-消息消费者
 
 

@@ -1,4 +1,4 @@
-# spring Boot集成RebbitMQ测试
+# SpringBoot集成RebbitMQ测试
 &emsp;&emsp;初始摸索了一下rabbitMQ，此处尝试进行springboot与RabbitMQ的集成，实现消息的推送和接收，待完善其它模式的应用。
 
 ### 一、RabbitMq安装
